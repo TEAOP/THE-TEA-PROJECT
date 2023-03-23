@@ -1,0 +1,12 @@
+THE BIG TEA OP MADE THIS!!!!
+Steam
+steamapps
+common
+ark
+engine
+config
+FOLLOW THAT FILE PATH YK^
+
+now drag the BaseDeviceProfiles in the TEA OP INI folder into the one in da config yk and bam should work yk
+
+THE BIG TEA OP MADE THIS!!!!

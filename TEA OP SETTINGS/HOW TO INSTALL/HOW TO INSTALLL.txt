@@ -1,0 +1,9 @@
+Follow this file path
+common
+Ark
+ShooterGame
+Saved
+Config
+WindowsnoEditor
+drag the GameUserSettings from the tea op settings into WindowsNoEditor
+open the game and bam
